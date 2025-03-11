@@ -1,0 +1,5 @@
+[console_scripts]
+client_node = tcp_communications_pkg.client_node:main
+command_input = tcp_communications_pkg.command_input:main
+server_node = tcp_communications_pkg.server_node:main
+

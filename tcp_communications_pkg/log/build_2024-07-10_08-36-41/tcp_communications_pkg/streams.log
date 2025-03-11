@@ -1,0 +1,46 @@
+[0.824s] Invoking command in '/home/agilex/agilex_ws/src/tcp_communications_pkg': PYTHONPATH=/home/agilex/agilex_ws/src/tcp_communications_pkg/build/tcp_communications_pkg/prefix_override:/home/agilex/agilex_ws/src/tcp_communications_pkg/install/tcp_communications_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/tcp_communications_pkg build --build-base /home/agilex/agilex_ws/src/tcp_communications_pkg/build/tcp_communications_pkg/build install --record /home/agilex/agilex_ws/src/tcp_communications_pkg/build/tcp_communications_pkg/install.log --install-scripts $base/lib/tcp_communications_pkg --single-version-externally-managed
+[1.107s] running egg_info
+[1.107s] creating build/tcp_communications_pkg/tcp_communications_pkg.egg-info
+[1.107s] writing build/tcp_communications_pkg/tcp_communications_pkg.egg-info/PKG-INFO
+[1.108s] writing dependency_links to build/tcp_communications_pkg/tcp_communications_pkg.egg-info/dependency_links.txt
+[1.108s] writing entry points to build/tcp_communications_pkg/tcp_communications_pkg.egg-info/entry_points.txt
+[1.108s] writing requirements to build/tcp_communications_pkg/tcp_communications_pkg.egg-info/requires.txt
+[1.109s] writing top-level names to build/tcp_communications_pkg/tcp_communications_pkg.egg-info/top_level.txt
+[1.111s] writing manifest file 'build/tcp_communications_pkg/tcp_communications_pkg.egg-info/SOURCES.txt'
+[1.151s] reading manifest file 'build/tcp_communications_pkg/tcp_communications_pkg.egg-info/SOURCES.txt'
+[1.152s] writing manifest file 'build/tcp_communications_pkg/tcp_communications_pkg.egg-info/SOURCES.txt'
+[1.152s] running build
+[1.152s] running build_py
+[1.152s] creating /home/agilex/agilex_ws/src/tcp_communications_pkg/build/tcp_communications_pkg/build
+[1.153s] creating /home/agilex/agilex_ws/src/tcp_communications_pkg/build/tcp_communications_pkg/build/lib
+[1.153s] creating /home/agilex/agilex_ws/src/tcp_communications_pkg/build/tcp_communications_pkg/build/lib/tcp_communications_pkg
+[1.153s] copying tcp_communications_pkg/server_node.py -> /home/agilex/agilex_ws/src/tcp_communications_pkg/build/tcp_communications_pkg/build/lib/tcp_communications_pkg
+[1.153s] copying tcp_communications_pkg/client_node.py -> /home/agilex/agilex_ws/src/tcp_communications_pkg/build/tcp_communications_pkg/build/lib/tcp_communications_pkg
+[1.153s] copying tcp_communications_pkg/client_node (copy).py -> /home/agilex/agilex_ws/src/tcp_communications_pkg/build/tcp_communications_pkg/build/lib/tcp_communications_pkg
+[1.153s] copying tcp_communications_pkg/__init__.py -> /home/agilex/agilex_ws/src/tcp_communications_pkg/build/tcp_communications_pkg/build/lib/tcp_communications_pkg
+[1.153s] running install
+[1.154s] running install_lib
+[1.155s] creating /home/agilex/agilex_ws/src/tcp_communications_pkg/install/tcp_communications_pkg/lib/python3.8/site-packages/tcp_communications_pkg
+[1.155s] copying /home/agilex/agilex_ws/src/tcp_communications_pkg/build/tcp_communications_pkg/build/lib/tcp_communications_pkg/server_node.py -> /home/agilex/agilex_ws/src/tcp_communications_pkg/install/tcp_communications_pkg/lib/python3.8/site-packages/tcp_communications_pkg
+[1.155s] copying /home/agilex/agilex_ws/src/tcp_communications_pkg/build/tcp_communications_pkg/build/lib/tcp_communications_pkg/client_node.py -> /home/agilex/agilex_ws/src/tcp_communications_pkg/install/tcp_communications_pkg/lib/python3.8/site-packages/tcp_communications_pkg
+[1.155s] copying /home/agilex/agilex_ws/src/tcp_communications_pkg/build/tcp_communications_pkg/build/lib/tcp_communications_pkg/client_node (copy).py -> /home/agilex/agilex_ws/src/tcp_communications_pkg/install/tcp_communications_pkg/lib/python3.8/site-packages/tcp_communications_pkg
+[1.155s] copying /home/agilex/agilex_ws/src/tcp_communications_pkg/build/tcp_communications_pkg/build/lib/tcp_communications_pkg/__init__.py -> /home/agilex/agilex_ws/src/tcp_communications_pkg/install/tcp_communications_pkg/lib/python3.8/site-packages/tcp_communications_pkg
+[1.156s] byte-compiling /home/agilex/agilex_ws/src/tcp_communications_pkg/install/tcp_communications_pkg/lib/python3.8/site-packages/tcp_communications_pkg/server_node.py to server_node.cpython-38.pyc
+[1.158s] byte-compiling /home/agilex/agilex_ws/src/tcp_communications_pkg/install/tcp_communications_pkg/lib/python3.8/site-packages/tcp_communications_pkg/client_node.py to client_node.cpython-38.pyc
+[1.159s] byte-compiling /home/agilex/agilex_ws/src/tcp_communications_pkg/install/tcp_communications_pkg/lib/python3.8/site-packages/tcp_communications_pkg/client_node (copy).py to client_node (copy).cpython-38.pyc
+[1.160s] byte-compiling /home/agilex/agilex_ws/src/tcp_communications_pkg/install/tcp_communications_pkg/lib/python3.8/site-packages/tcp_communications_pkg/__init__.py to __init__.cpython-38.pyc
+[1.160s] running install_data
+[1.160s] creating /home/agilex/agilex_ws/src/tcp_communications_pkg/install/tcp_communications_pkg/share/ament_index
+[1.160s] creating /home/agilex/agilex_ws/src/tcp_communications_pkg/install/tcp_communications_pkg/share/ament_index/resource_index
+[1.160s] creating /home/agilex/agilex_ws/src/tcp_communications_pkg/install/tcp_communications_pkg/share/ament_index/resource_index/packages
+[1.161s] copying resource/tcp_communications_pkg -> /home/agilex/agilex_ws/src/tcp_communications_pkg/install/tcp_communications_pkg/share/ament_index/resource_index/packages
+[1.161s] copying package.xml -> /home/agilex/agilex_ws/src/tcp_communications_pkg/install/tcp_communications_pkg/share/tcp_communications_pkg
+[1.161s] copying launch/client_node.launch.py -> /home/agilex/agilex_ws/src/tcp_communications_pkg/install/tcp_communications_pkg/share/tcp_communications_pkg
+[1.161s] copying launch/server_node.launch.py -> /home/agilex/agilex_ws/src/tcp_communications_pkg/install/tcp_communications_pkg/share/tcp_communications_pkg
+[1.161s] running install_egg_info
+[1.163s] Copying build/tcp_communications_pkg/tcp_communications_pkg.egg-info to /home/agilex/agilex_ws/src/tcp_communications_pkg/install/tcp_communications_pkg/lib/python3.8/site-packages/tcp_communications_pkg-0.0.0-py3.8.egg-info
+[1.163s] running install_scripts
+[1.187s] Installing client_node script to /home/agilex/agilex_ws/src/tcp_communications_pkg/install/tcp_communications_pkg/lib/tcp_communications_pkg
+[1.187s] Installing server_node script to /home/agilex/agilex_ws/src/tcp_communications_pkg/install/tcp_communications_pkg/lib/tcp_communications_pkg
+[1.187s] writing list of installed files to '/home/agilex/agilex_ws/src/tcp_communications_pkg/build/tcp_communications_pkg/install.log'
+[1.222s] Invoked command in '/home/agilex/agilex_ws/src/tcp_communications_pkg' returned '0': PYTHONPATH=/home/agilex/agilex_ws/src/tcp_communications_pkg/build/tcp_communications_pkg/prefix_override:/home/agilex/agilex_ws/src/tcp_communications_pkg/install/tcp_communications_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/tcp_communications_pkg build --build-base /home/agilex/agilex_ws/src/tcp_communications_pkg/build/tcp_communications_pkg/build install --record /home/agilex/agilex_ws/src/tcp_communications_pkg/build/tcp_communications_pkg/install.log --install-scripts $base/lib/tcp_communications_pkg --single-version-externally-managed
